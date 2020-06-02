@@ -26,6 +26,10 @@ button {
   color: black;
 }
 
+.paragraph:hover {
+  color: blue;
+}
+
 .highlight {
   background-color: yellow;
   border: 5px black solid;
