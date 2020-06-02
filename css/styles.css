@@ -25,3 +25,8 @@ img {
 button {
   color: black;
 }
+
+.highlight {
+  background-color: yellow;
+  border: 5px black solid;
+}
