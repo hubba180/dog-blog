@@ -7,4 +7,9 @@ $(document).ready(function() {
     $("body").removeClass("light-background")
     $("body").addClass("dark-background")
   });
+  $("#original").click(function() {
+    $("body").removeClass("light-background")
+    $("body").removeClass("dark-background")
+
+  })
 });
