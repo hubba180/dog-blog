@@ -11,3 +11,17 @@ img {
   margin-right: auto;
   width: 40%;
 }
+
+.light-background {
+  background-color: grey;
+  color: black;
+}
+
+.dark-background {
+  background-color: black;
+  color: whitesmoke;
+}
+
+button {
+  color: black;
+}
